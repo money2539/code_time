@@ -1,6 +1,6 @@
-Online Train Ticket Booking
+#Online Train Ticket Booking
 
-ปัญหาของวิธีการจำหน่ายตั๋วรถไฟในปัจจุบันของประเทศไทย
+**ปัญหาของวิธีการจำหน่ายตั๋วรถไฟในปัจจุบันของประเทศไทย
 
 •	สิ้นเปลืองกระดาษจากการออกตั๋ว
 
@@ -8,11 +8,11 @@ Online Train Ticket Booking
 
 •	มี human error ของผู้ออกตั๋วที่ต้องออกตั๋วให้ผู้ใช้มากมายในแต่ละวัน
 
-วิธีหรือแนวทางในการแก้ปัญหา
+**วิธีหรือแนวทางในการแก้ปัญหา
 
 เพิ่มทางเลือกในการจำหน่ายตั๋วรถไฟ สายตะวันออก เที่ยวไป/กลับ ระหว่างกรุงเทพ(หัวลำโพง)-ชุมทางฉะเชิงเทรา ให้สามารถซื้อได้ผ่านทางระบบออนไลน์บนเว็บไซต์
 
-Technology ที่ใช้ใน Project นี้
+**Technology ที่ใช้ใน Project นี้
 
 •	HTML
 
@@ -22,7 +22,7 @@ Technology ที่ใช้ใน Project นี้
 
 •	Javascript
 
-ผลลัพธ์และประโยชน์ที่คาดว่าจะได้รับ
+**ผลลัพธ์และประโยชน์ที่คาดว่าจะได้รับ
 
 ผู้ใช้สามารถซื้อตั๋วรถไฟสายตะวันออกระหว่างสถานีกรุงเทพ(หัวลำโพง)-ชุมทางฉะเชิงเทราผ่านเว็บไซต์ได้
 
@@ -32,13 +32,13 @@ Technology ที่ใช้ใน Project นี้
 
 •	ไม่มี human error ของผู้ออกตั๋วที่ต้องออกตั๋วให้ผู้ใช้มากมายในแต่ละวัน เพราะมีระบบเข้ามาจัดการแทน
 
-Github  https://github.com/husna0112/train_ticket
+**Github  https://github.com/husna0112/train_ticket
 
-YOUTUBE  https://www.youtube.com/watch?v=5NOMPSIqhcU&feature=youtu.be&fbclid=IwAR156aFD-P7KGRihfr7n7L9xBKVJC6F3KpqQPWzJuzRAfwBTEmktpn9IyWU
+**YOUTUBE  https://www.youtube.com/watch?v=5NOMPSIqhcU&feature=youtu.be&fbclid=IwAR156aFD-P7KGRihfr7n7L9xBKVJC6F3KpqQPWzJuzRAfwBTEmktpn9IyWU
 
-คู่มือการใช้งาน : https://github.com/husna0112/train_ticket/blob/master/คู่มือการใช้งาน.pdf
+**คู่มือการใช้งาน : https://github.com/husna0112/train_ticket/blob/master/คู่มือการใช้งาน.pdf
 
-รายชื่อสมาชิกกลุ่ม NONAME
+**รายชื่อสมาชิกกลุ่ม NONAME
 
 59070036	ชลณิชา หวังมี	https://github.com/Munawang
 
